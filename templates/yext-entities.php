@@ -19,7 +19,7 @@
         $entities = isset($data['entities']) ? $data['entities'] : array();
         ?>
         <div class="alf-yext-summary">
-            <?php printf(__('Retrieved %d entities.', 'advantago-location-finder'), isset($data['count']) ? (int)$data['count'] : count($entities)); ?>
+            <?php printf(__('Retrieved %d entities. (pls watch synchronized and not synchronized)/hidden entities on yext)', 'advantago-location-finder'), isset($data['count']) ? (int)$data['count'] : count($entities)); ?>
         </div>
         <div class="alf-yext-source">
             <?php
