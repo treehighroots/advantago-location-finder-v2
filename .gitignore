@@ -1,3 +1,4 @@
 .idea
 .DS_STORE
 /wp-content/plugins/location-finder.zip
+/advantago-location-finder/config/config.php
