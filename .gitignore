@@ -2,3 +2,7 @@
 .DS_STORE
 /wp-content/plugins/location-finder.zip
 /advantago-location-finder/config/config.php
+# Ignore all cache files
+cache/
+*.cache
+*.log
