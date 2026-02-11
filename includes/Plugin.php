@@ -29,9 +29,8 @@ class Plugin {
         $admin_controller = new Controllers\AdminController($this->config);
         $admin_controller->init();
 
-        $location_finder_controller = new Controllers\LocationFinderController($this->config);
-        $yext_entities_controller = new Controllers\YextEntitiesController($this->config);
+        $locations_controller = new Controllers\LocationsController($this->config);
 
-        add_shortcode('alf_yext_entities', [$yext_entities_controller, 'handleShortcode']);
+        add_shortcode('alf_locations_list', [$locations_controller, 'handleShortcodeList']);
     }
 }

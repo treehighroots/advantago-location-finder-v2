@@ -1,0 +1,3685 @@
+{
+  "meta": {
+    "uuid": "019c46ba-cd5e-f0e6-5a4d-640c6060616f",
+    "errors": []
+  },
+  "response": {
+    "entities": [
+      {
+        "driveThroughHours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "10:00",
+                "end": "14:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "10:00",
+                "end": "14:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "10:00",
+                "end": "14:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "10:00",
+                "end": "14:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "10:00",
+                "end": "14:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "10:00",
+                "end": "14:00"
+              }
+            ]
+          },
+          "sunday": {
+            "isClosed": true
+          }
+        },
+        "frequentlyAskedQuestions": [
+          {
+            "question": "Was ist der Sinn des Lebens?",
+            "answer": "42"
+          }
+        ],
+        "geomodifier": "Berlin",
+        "googlePlaceId": "ChIJlaLkBhNZqEcRxyhgQ9k2uy4",
+        "holidayHoursConversationEnabled": true,
+        "impressum": "Ist geheim und bleibt geheim - LirumLarum",
+        "linkedInUrl": "https://www.linkedin.com/company/advantago-gmbh-\u0026-co--kg",
+        "savedFilters": [
+          "265976"
+        ],
+        "neighborhood": "Berlin",
+        "nudgeEnabled": true,
+        "pickupAndDeliveryServices": [
+          "IN_STORE_PICKUP",
+          "CURBSIDE_PICKUP",
+          "NO_CONTACT_DELIVERY"
+        ],
+        "pickupHours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "09:00",
+                "end": "17:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "09:00",
+                "end": "17:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "09:00",
+                "end": "17:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "09:00",
+                "end": "17:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "09:00",
+                "end": "17:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "09:00",
+                "end": "17:00"
+              }
+            ]
+          },
+          "sunday": {
+            "isClosed": true
+          }
+        },
+        "primaryConversationContact": "8365467461291128318",
+        "reviewResponseConversationEnabled": true,
+        "address": {
+          "line1": "Conradstraße 18",
+          "sublocality": "Bezirk Steglitz-Zehlendorf",
+          "city": "Berlin",
+          "region": "Berlin",
+          "postalCode": "14109",
+          "countryCode": "DE"
+        },
+        "addressHidden": true,
+        "associations": [
+          "bwcon",
+          "cyberlago"
+        ],
+        "brands": [
+          "maxxus",
+          "precor",
+          "technogym"
+        ],
+        "description": "Herzlich willkommen in unserem modernen Fitnessstudio in Berlin! Bei uns erwartet dich auf über 800 m² eine vielfältige Auswahl an hochmodernen Trainingsgeräten, energiegeladenen Gruppenkursen und kompetenter Betreuung durch erfahrene Trainer. Egal ob du deine Ausdauer steigern, Muskeln aufbauen oder einfach nur fit bleiben möchtest – wir bieten dir die optimalen Bedingungen für dein Training. Unsere motivierten Trainer stehen dir mit Rat und Tat zur Seite, um dich bei der Erreichung deiner individuellen Fitnessziele zu unterstützen. Erlebe eine angenehme Atmosphäre, in der du dich wohlfühlst und motiviert trainieren kannst. Komm vorbei und entdecke, wie wir dich auf deinem Weg zu einem gesünderen und fitteren Leben unterstützen können.",
+        "hours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "23:59"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "00:00",
+                "end": "02:00"
+              },
+              {
+                "start": "16:00",
+                "end": "20:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "17:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "17:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "17:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "17:00"
+              }
+            ]
+          },
+          "sunday": {
+            "isClosed": true
+          }
+        },
+        "logo": {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/ei1TTbDNC_Gvm6OxVpqzxWIew7FDjvgMfcxlXdtcN-Y/350x350.jpg",
+            "width": 350,
+            "height": 350,
+            "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/ei1TTbDNC_Gvm6OxVpqzxWIew7FDjvgMfcxlXdtcN-Y/350x350.jpg",
+                "width": 350,
+                "height": 350
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/ei1TTbDNC_Gvm6OxVpqzxWIew7FDjvgMfcxlXdtcN-Y/150x150.jpg",
+                "width": 150,
+                "height": 150
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/ei1TTbDNC_Gvm6OxVpqzxWIew7FDjvgMfcxlXdtcN-Y/94x94.jpg",
+                "width": 94,
+                "height": 94
+              }
+            ]
+          }
+        },
+        "name": "Georg's Gym KI",
+        "cityCoordinate": {
+          "latitude": 52.52000659999999,
+          "longitude": 13.404954
+        },
+        "closed": false,
+        "c_angebote": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/16ad729kO_yLoQNmfxDIPeT-rMTU8DMp8EopiIq8dD0/1366x768.png",
+              "alternateText": "Bestes Studio in Berlin mit kostenlosem Probetraining",
+              "width": 1366,
+              "height": 768,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/16ad729kO_yLoQNmfxDIPeT-rMTU8DMp8EopiIq8dD0/1366x768.png",
+                  "width": 1366,
+                  "height": 768
+                }
+              ]
+            },
+            "clickthroughUrl": "https://georgs-gym.de/",
+            "description": "Vereinbare heute dein kostenloses Probetraining!",
+            "details": "Du suchst noch nach dem perfekten Studio für Dein Workout? Eines das sich an dich deine Wünsche anpasst und alles bietet, was du benötigst? Dann würden wir uns freuen dich kennenzulernen. Vereinbare jetzt ein kostenloses Probetraining und lass uns dich von unserem Studio überzeugen!"
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/yXPH3Flft8zoTC3C3g_-w5HhydOtXE0lCdaQl_YRmH4/1080x1080.png",
+              "alternateText": "Georgs Gym Angebot",
+              "width": 1080,
+              "height": 1080,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/yXPH3Flft8zoTC3C3g_-w5HhydOtXE0lCdaQl_YRmH4/1080x1080.png",
+                  "width": 1080,
+                  "height": 1080
+                }
+              ]
+            },
+            "clickthroughUrl": "https://georgs-gym.de/",
+            "description": "Neukundenaktion - 10% Lifetime-Rabatt!",
+            "details": "Neues Studio, alte Leier? Nicht mit uns. Georg´s Gym ist komplett anders als alle Studios, die du bisher kennengelernt hast. Komm vorbei zum Probetraining und profitiere von unserem 10% Lieftime-Rabatt"
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/JIz6356EJ3xjy-hC_dIdtdku9yVD8jk31delSe0ZPCA/1366x768.jpg",
+              "alternateText": "Protein Flatrate",
+              "width": 1366,
+              "height": 768,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/JIz6356EJ3xjy-hC_dIdtdku9yVD8jk31delSe0ZPCA/1366x768.jpg",
+                  "width": 1366,
+                  "height": 768
+                }
+              ]
+            },
+            "clickthroughUrl": "https://georgs-gym.de/",
+            "description": "Hol Dir die Protein-Flatrate for free!",
+            "details": "Es ist Massezeit - also pump dich mal so richtig auf mit unserer Protein-Flatrate. Bei Abschluss einer 6 Monats-Proteinflatrate bekommst du den Juli komplett gratis"
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/H0LpIdZRdipdLYyKZWP9GZ2S9l0HTW8gtJWJeRk0a9M/1366x768.jpg",
+              "alternateText": "Personal Trainer buchen",
+              "width": 1366,
+              "height": 768,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/H0LpIdZRdipdLYyKZWP9GZ2S9l0HTW8gtJWJeRk0a9M/1366x768.jpg",
+                  "width": 1366,
+                  "height": 768
+                }
+              ]
+            },
+            "clickthroughUrl": "https://georgs-gym.de/",
+            "description": "Individual Workout!",
+            "details": "Der Sommer ist schon fast wieder vorbei, aber die Strandfigur ist noch nicht perfekt?  Dann hol dir professionelle Hilfe und buche dein Personal Training Package."
+          }
+        ],
+        "c_bewertungswidget": "\u003cdiv id=\"widget-1\"\u003e\u003c/div\u003e\n\u003cscript\u003e\n    (function(a,e,f,g,b,c,d){a.WebsiteWidgetLoader=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,\"script\",\"https://listing.lead-hub.de/static/website-widget-loader/website-widget.min.js\",\"wwl\");\n  wwl({key: '7b88df99-c8ba-436b-b01d-627ee579cfbd', container: 'widget-1', id: '6002352'});\n\u003c/script\u003e",
+        "dm_directoryParents_160200_store_locator": [],
+        "dm_directoryParents_160212_store_pages": [
+          "160212-store-pages",
+          "160212-store-pages_de",
+          "160212-store-pages_de_berlin",
+          "160212-store-pages_de_berlin_berlin"
+        ],
+        "dm_directoryParents_162084_132729_abc1a": [
+          "162084-132729-abc1a",
+          "162084-132729-abc1a_de",
+          "162084-132729-abc1a_de___berlin"
+        ],
+        "dm_directoryParents_162155_132907_florian_test_1": [
+          "162155-132907-florian-test-1",
+          "162155-132907-florian-test-1_de",
+          "162155-132907-florian-test-1_de___berlin"
+        ],
+        "dm_directoryParents_16218_florian_stageing_2026_zx44i": [
+          "16218-florian-stageing-2026-zx44i",
+          "16218-florian-stageing-2026-zx44i_de",
+          "16218-florian-stageing-2026-zx44i_de___berlin"
+        ],
+        "pgs_florianStageing2026_florianStageing2026_td5ju_Url": "https://actually-weird-peacock.pgsdemo.com/berlin/berlin/conradstra%C3%9Fe-18",
+        "pgs_georgsGym20_storePages_mt0jv_Url": "https://ardently-capable-doberman.pgsdemo.com/berlin/berlin/conradstra%C3%9Fe-18",
+        "pgs_georgsGym30_georgsGymTestLocator_6hm4i_Url": "https://defiantly-vocal-cockatoo.pgsdemo.com/berlin/berlin/conradstra%C3%9Fe-18",
+        "c_gmbReviewLink": "https://www.google.com/search?q=advantago+n%C3%BCrnberg\u0026rlz=1C1CHBD_deDE926DE926\u0026oq=advantago+n%C3%BCrnberg\u0026aqs=chrome.0.69i59.6020j0j7\u0026sourceid=chrome\u0026ie=UTF-8#lrd=0x479f5636a3a5b677:0x4603d1e8a6e00ad3,3,,,",
+        "c_metaDescription": "Pushperformance",
+        "c_stellenausschreibungen": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/_HHYBerLcjLhPCE5dkREVvIMWrT9hHJDrldT0RYVfCo/1080x1080.png",
+              "alternateText": "Stellenausschreibung Store Manager",
+              "width": 1080,
+              "height": 1080,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/_HHYBerLcjLhPCE5dkREVvIMWrT9hHJDrldT0RYVfCo/1080x1080.png",
+                  "width": 1080,
+                  "height": 1080
+                }
+              ]
+            },
+            "clickthroughUrl": "https://georgs-gym.de/",
+            "description": "Store Manager (m/wd) gesucht",
+            "details": "Langweilige Jobs gibt es in Berlin genug. Wie wär´s mal mit nem Powerjob in unserem Studio in der Kingstraße. Wenn du Erfahrung in der Fitnessbranche hast, eine Ausbildung zur Fintesskauffrau hast, dann schau doch mal vorbei."
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/8m7oOk7ufKB4P80Oof8FD4rt9WwaubaBoTZ_1zcMW94/1414x2000.png",
+              "alternateText": "Stellenausschreibung Personal Trainer",
+              "width": 1414,
+              "height": 2000,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/8m7oOk7ufKB4P80Oof8FD4rt9WwaubaBoTZ_1zcMW94/1414x2000.png",
+                  "width": 1414,
+                  "height": 2000
+                }
+              ]
+            },
+            "clickthroughUrl": "https://georgs-gym.de/",
+            "description": "Personal Trainer:in in Mitte",
+            "details": "Du hast bereits Erfahrungen als Personaltrainer(-in)? Prima, dann würden wir uns freuen, wenn du bei uns mal vorbeischauen würdest. In einem gemeinsamen Gespräch zeigen wir dir alle Vorzüge unseres Studios auf und du wirst sehen, dass dies genau der richtige Spot ist, um voll durchzustarten."
+          }
+        ],
+        "pgs_storeLocator_storeLocator_vbtk9_Url": "https://out-shining-earwig.pgsdemo.com/de/berlin/berlin/k%C3%B6nigstra%C3%9Fe-8-lh58311",
+        "c_template11_template11_vic0y_Url": "https://briskly-missing-minnow.pgsdemo.com/static-8690",
+        "pgs_templatee_testt_8pnut_Url": "https://clearly-loose-rabbit.pgsdemo.com/de/berlin/berlin/k%C3%B6nigstra%C3%9Fe-8",
+        "pgs_testest1_abc1a_n7x1j_Url": "https://dimly-friendly-swift.pgsdemo.com/berlin/berlin/conradstra%C3%9Fe-18",
+        "c_vorschaubild": {
+          "url": "https://a.mktgcdn.com/p/XtAeSS76PFLkoQ-axEK0T_7wkhZnz4LF0blNSkZChzM/5616x3749.jpg",
+          "alternateText": "Bild des Eingangs des Fitness Studios in Berlin",
+          "width": 5616,
+          "height": 3749,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/XtAeSS76PFLkoQ-axEK0T_7wkhZnz4LF0blNSkZChzM/5616x3749.jpg",
+              "width": 5616,
+              "height": 3749
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/XtAeSS76PFLkoQ-axEK0T_7wkhZnz4LF0blNSkZChzM/1900x1268.jpg",
+              "width": 1900,
+              "height": 1268
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/XtAeSS76PFLkoQ-axEK0T_7wkhZnz4LF0blNSkZChzM/619x413.jpg",
+              "width": 619,
+              "height": 413
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/XtAeSS76PFLkoQ-axEK0T_7wkhZnz4LF0blNSkZChzM/600x401.jpg",
+              "width": 600,
+              "height": 401
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/XtAeSS76PFLkoQ-axEK0T_7wkhZnz4LF0blNSkZChzM/196x131.jpg",
+              "width": 196,
+              "height": 131
+            }
+          ]
+        },
+        "c_wheelchairAccessibility": true,
+        "displayCoordinate": {
+          "latitude": 52.42115140000001,
+          "longitude": 13.1647784
+        },
+        "dropoffCoordinate": {
+          "latitude": 52.42115140000001,
+          "longitude": 13.1647784
+        },
+        "bios": {
+          "ids": [
+            "1942700"
+          ]
+        },
+        "calendars": {
+          "ids": [
+            "1872886"
+          ]
+        },
+        "menus": {
+          "label": "Speisekarte",
+          "ids": [
+            "1877068",
+            "2272098"
+          ]
+        },
+        "productLists": {
+          "label": "Products and Services",
+          "ids": [
+            "LH137786"
+          ]
+        },
+        "emails": [
+          "info@georgsgym.com"
+        ],
+        "facebookCallToAction": {
+          "type": "CALL_NOW",
+          "value": "8009723452"
+        },
+        "facebookName": "Georgs Gym",
+        "facebookPageUrl": "https://www.facebook.com/Georgs-Gym-760366907332304",
+        "facebookStoreId": "1868457",
+        "facebookVanityUrl": "GeorgsGymBerlin",
+        "featuredMessage": {
+          "description": "Lasst die Pfunde purzeln :-)",
+          "url": "https://www.georgs-gym.de"
+        },
+        "photoGallery": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+              "width": 640,
+              "height": 427,
+              "sourceUrl": "https://api.mark.ee/imgs/05acb19a570e96e7c30d23978ff9b09cbfbfb6b524d5937c7d39e7584862872e.jpg",
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+                  "width": 640,
+                  "height": 427
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/619x413.jpg",
+                  "width": 619,
+                  "height": 413
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/600x400.jpg",
+                  "width": 600,
+                  "height": 400
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/196x131.jpg",
+                  "width": 196,
+                  "height": 131
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/ZavAdg0xd49VyGqiYWn4o5m7sy-H2JthMrAYMwWmN28/640x427.jpg",
+              "width": 640,
+              "height": 427,
+              "sourceUrl": "https://api.mark.ee/imgs/429987903e4445a5bcefee535bb03fe2e66befeaa8433948d5b92fc36efef2d4.jpg",
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/ZavAdg0xd49VyGqiYWn4o5m7sy-H2JthMrAYMwWmN28/640x427.jpg",
+                  "width": 640,
+                  "height": 427
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/ZavAdg0xd49VyGqiYWn4o5m7sy-H2JthMrAYMwWmN28/619x413.jpg",
+                  "width": 619,
+                  "height": 413
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/ZavAdg0xd49VyGqiYWn4o5m7sy-H2JthMrAYMwWmN28/600x400.jpg",
+                  "width": 600,
+                  "height": 400
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/ZavAdg0xd49VyGqiYWn4o5m7sy-H2JthMrAYMwWmN28/196x131.jpg",
+                  "width": 196,
+                  "height": 131
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/IJWtQQ5tmp5POb-24MfFVidaqh2Cr16a__2IcFXW4Us/640x360.jpg",
+              "width": 640,
+              "height": 360,
+              "sourceUrl": "https://api.mark.ee/imgs/7f1269eba8bb0550c607994e7417a1ec683744dccf238ae09869f7f38484048b.jpg",
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/IJWtQQ5tmp5POb-24MfFVidaqh2Cr16a__2IcFXW4Us/640x360.jpg",
+                  "width": 640,
+                  "height": 360
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/IJWtQQ5tmp5POb-24MfFVidaqh2Cr16a__2IcFXW4Us/619x348.jpg",
+                  "width": 619,
+                  "height": 348
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/IJWtQQ5tmp5POb-24MfFVidaqh2Cr16a__2IcFXW4Us/600x338.jpg",
+                  "width": 600,
+                  "height": 338
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/IJWtQQ5tmp5POb-24MfFVidaqh2Cr16a__2IcFXW4Us/196x110.jpg",
+                  "width": 196,
+                  "height": 110
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/B7tJa7J1K1lZXiAGpzPQXu_GQYPbn0aIy3xub5bxhKE/1920x1438.jpg",
+              "width": 1920,
+              "height": 1438,
+              "sourceUrl": "https://api.mark.ee/imgs/6019b460b0da68987e42f66d75382da0fd1cb87b7f6d7b8b818ac9c8c3cd2e41.jpg",
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/B7tJa7J1K1lZXiAGpzPQXu_GQYPbn0aIy3xub5bxhKE/1920x1438.jpg",
+                  "width": 1920,
+                  "height": 1438
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/B7tJa7J1K1lZXiAGpzPQXu_GQYPbn0aIy3xub5bxhKE/1900x1423.jpg",
+                  "width": 1900,
+                  "height": 1423
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/B7tJa7J1K1lZXiAGpzPQXu_GQYPbn0aIy3xub5bxhKE/619x464.jpg",
+                  "width": 619,
+                  "height": 464
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/B7tJa7J1K1lZXiAGpzPQXu_GQYPbn0aIy3xub5bxhKE/600x449.jpg",
+                  "width": 600,
+                  "height": 449
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/B7tJa7J1K1lZXiAGpzPQXu_GQYPbn0aIy3xub5bxhKE/196x147.jpg",
+                  "width": 196,
+                  "height": 147
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+              "width": 1920,
+              "height": 2560,
+              "sourceUrl": "https://api.mark.ee/imgs/11c5ae4ad9101aab8316c08a3aa4e266c01d67ffbabdce0062c05d1dee4c7e1b.jpg",
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+                  "width": 1920,
+                  "height": 2560
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1425x1900.jpg",
+                  "width": 1425,
+                  "height": 1900
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/619x825.jpg",
+                  "width": 619,
+                  "height": 825
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/338x450.jpg",
+                  "width": 338,
+                  "height": 450
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/196x261.jpg",
+                  "width": 196,
+                  "height": 261
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/NOcmqgrCl-Uqm49cKhGVR64GzFZLxS3g6S8mFOHMHiM/3500x2333.jpg",
+              "width": 3500,
+              "height": 2333,
+              "sourceUrl": "https://api.mark.ee/imgs/3be22b5d51b9bf824fe2608b3904dcffdeb409dad15321c7d8cc2a358f1d86f7.jpg",
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/NOcmqgrCl-Uqm49cKhGVR64GzFZLxS3g6S8mFOHMHiM/3500x2333.jpg",
+                  "width": 3500,
+                  "height": 2333
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/NOcmqgrCl-Uqm49cKhGVR64GzFZLxS3g6S8mFOHMHiM/1900x1266.jpg",
+                  "width": 1900,
+                  "height": 1266
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/NOcmqgrCl-Uqm49cKhGVR64GzFZLxS3g6S8mFOHMHiM/619x413.jpg",
+                  "width": 619,
+                  "height": 413
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/NOcmqgrCl-Uqm49cKhGVR64GzFZLxS3g6S8mFOHMHiM/600x400.jpg",
+                  "width": 600,
+                  "height": 400
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/NOcmqgrCl-Uqm49cKhGVR64GzFZLxS3g6S8mFOHMHiM/196x131.jpg",
+                  "width": 196,
+                  "height": 131
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/LgppGxzAYG643ZkLiuY4CJwLhia-5yPvmVThsfm6qvs/2400x3600.jpg",
+              "width": 2400,
+              "height": 3600,
+              "sourceUrl": "https://api.mark.ee/imgs/a7cd305710e13c3324cbf12a4519f0d2d457d8a7eacd569de658b78744a6f644.jpg",
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/LgppGxzAYG643ZkLiuY4CJwLhia-5yPvmVThsfm6qvs/2400x3600.jpg",
+                  "width": 2400,
+                  "height": 3600
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/LgppGxzAYG643ZkLiuY4CJwLhia-5yPvmVThsfm6qvs/1267x1900.jpg",
+                  "width": 1267,
+                  "height": 1900
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/LgppGxzAYG643ZkLiuY4CJwLhia-5yPvmVThsfm6qvs/619x929.jpg",
+                  "width": 619,
+                  "height": 929
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/LgppGxzAYG643ZkLiuY4CJwLhia-5yPvmVThsfm6qvs/300x450.jpg",
+                  "width": 300,
+                  "height": 450
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/LgppGxzAYG643ZkLiuY4CJwLhia-5yPvmVThsfm6qvs/196x294.jpg",
+                  "width": 196,
+                  "height": 294
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360,
+              "sourceUrl": "https://api.mark.ee/imgs/dfb20aedde14bc913881cec3f0557b96fab0f38e821f02291502671fa1625265.jpg",
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+                  "width": 5040,
+                  "height": 3360
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/1900x1267.jpg",
+                  "width": 1900,
+                  "height": 1267
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/619x413.jpg",
+                  "width": 619,
+                  "height": 413
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/600x400.jpg",
+                  "width": 600,
+                  "height": 400
+                },
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/196x131.jpg",
+                  "width": 196,
+                  "height": 131
+                }
+              ]
+            }
+          }
+        ],
+        "geocodedCoordinate": {
+          "latitude": 52.4211798,
+          "longitude": 13.1647882
+        },
+        "googleAccountId": "105198819230264765207",
+        "googleCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/C-LF9GisK6n_8PNYXMpf6eadTg-IRulN1O_kpiV6bKM/2120x1192.png",
+          "width": 2120,
+          "height": 1192,
+          "sourceUrl": "https://api.mark.ee/imgs/16a75bfc31264ce753623f0b31ba116847400704f97c262bed287a48b44770bf.png",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/C-LF9GisK6n_8PNYXMpf6eadTg-IRulN1O_kpiV6bKM/2120x1192.png",
+              "width": 2120,
+              "height": 1192
+            }
+          ]
+        },
+        "googleProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/JL4o55XQ05Qb56XLnJIY-PevmQwbkcIzqeXEhBQolo4/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/786c6901befbaa756b43cb432be41288a6175bc720c9146061333491df4bf3d2.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/JL4o55XQ05Qb56XLnJIY-PevmQwbkcIzqeXEhBQolo4/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "isoRegionCode": "BE",
+        "keywords": [
+          "fit",
+          "Sportprogramm"
+        ],
+        "languages": [
+          "Deutsch",
+          "Englisch",
+          "Französisch"
+        ],
+        "localPhone": "+49985466889974735",
+        "locationType": "LOCATION",
+        "mainPhone": "+49309815789",
+        "menuUrl": {
+          "url": "http://www.lecker-essen-und-trainieren-bodyflexen.de",
+          "displayUrl": "http://www.lecker-essen-und-trainieren-bodyflexen.de",
+          "preferDisplayUrl": false
+        },
+        "paymentOptions": [
+          "APPLEPAY",
+          "Bar",
+          "CASH",
+          "ECKARTE",
+          "FINANCING",
+          "INVOICE",
+          "KLARNA",
+          "PAYPAL",
+          "VISA",
+          "Überweisung"
+        ],
+        "pickupCoordinate": {
+          "latitude": 52.42115140000001,
+          "longitude": 13.1647784
+        },
+        "priceRange": "TWO",
+        "products": [
+          "Entfernung der Kalorientierchen welche alle Kleider enger nähen",
+          "Personal Coach",
+          "Rückentraining",
+          "Yoga",
+          "Fettverbrennung",
+          "Fitness"
+        ],
+        "rankTrackingCompetitors": [
+          {
+            "name": "greengymberlin Gesundheits- und Fitnessclub",
+            "website": "http://www.greengymberlin.de/"
+          },
+          {
+            "name": "JOHN REED Fitness",
+            "website": "https://johnreed.fitness/"
+          },
+          {
+            "name": "Mrs.Sporty",
+            "website": "http://www.mrssporty.de"
+          }
+        ],
+        "customKeywords": [
+          "Fitnessstudio",
+          "Sportprogramm",
+          "Fitness",
+          "Training",
+          "Fitnesskurs"
+        ],
+        "rankTrackingEnabled": true,
+        "rankTrackingFrequency": "WEEKLY",
+        "rankTrackingKeywords": [
+          "NAME",
+          "PRIMARY_CATEGORY"
+        ],
+        "rankTrackingQueryTemplates": [
+          "KEYWORD",
+          "KEYWORD_CITY",
+          "KEYWORD_IN_CITY",
+          "KEYWORD_NEAR_ME"
+        ],
+        "rankTrackingSites": [
+          "GOOGLE_DESKTOP",
+          "GOOGLE_MOBILE"
+        ],
+        "suppressRichContent": false,
+        "routableCoordinate": {
+          "latitude": 52.42115140000001,
+          "longitude": 13.1647784
+        },
+        "serviceArea": {},
+        "services": [
+          "Fitness",
+          "Gruppentraining ab 5 Personen",
+          "Personal Training"
+        ],
+        "specialities": [
+          "Personaltraining",
+          "Workout Zirkeltraining"
+        ],
+        "timezone": "Europe/Berlin",
+        "ttyPhone": "+499116665552399",
+        "walkableCoordinate": {
+          "latitude": 52.42115140000001,
+          "longitude": 13.1647784
+        },
+        "websiteUrl": {
+          "url": "https://www.georgs-gym.de",
+          "displayUrl": "http://www.georgs-gym.de"
+        },
+        "yearEstablished": 1997,
+        "yextDisplayCoordinate": {
+          "latitude": 52.42115140000001,
+          "longitude": 13.1647784
+        },
+        "yextDropoffCoordinate": {
+          "latitude": 52.42115140000001,
+          "longitude": 13.1647784
+        },
+        "yextPickupCoordinate": {
+          "latitude": 52.42115140000001,
+          "longitude": 13.1647784
+        },
+        "yextRoutableCoordinate": {
+          "latitude": 52.42115140000001,
+          "longitude": 13.1647784
+        },
+        "yextWalkableCoordinate": {
+          "latitude": 52.42115140000001,
+          "longitude": 13.1647784
+        },
+        "videos": [
+          {
+            "video": {
+              "url": "https://www.youtube.com/watch?v=HpWAaSaD3UE"
+            }
+          }
+        ],
+        "meta": {
+          "accountId": "LH46574",
+          "uid": "1868457",
+          "id": "LH58311",
+          "timestamp": "2026-02-04T10:22:43",
+          "createdTimestamp": "2014-10-24T17:40:59",
+          "labels": [
+            "yoga",
+            "offeneStellen"
+          ],
+          "folderId": "0",
+          "schemaTypes": [
+            "ExerciseGym",
+            "HealthAndBeautyBusiness",
+            "LocalBusiness",
+            "ProfessionalService"
+          ],
+          "language": "de",
+          "countryCode": "DE",
+          "entityType": "location"
+        },
+        "googleAttributes": {
+          "has_restroom_unisex": [
+            "true"
+          ],
+          "welcomes_children": [
+            "false"
+          ],
+          "offers_online_classes": [
+            "true"
+          ],
+          "has_onsite_services": [
+            "true"
+          ],
+          "has_outdoor_services": [
+            "false"
+          ],
+          "has_volleyball_court": [
+            "true"
+          ],
+          "has_shower": [
+            "false"
+          ]
+        },
+        "categoryIds": [
+          "1259",
+          "1061144",
+          "2118",
+          "2279",
+          "52"
+        ],
+        "reviewGenerationUrl": "https://www.leavefeedback.app/tp/BEBQB",
+        "firstPartyReviewPage": "https://www.leavefeedback.app/survey/BEBQB",
+        "timeZoneUtcOffset": "+01:00"
+      },
+      {
+        "additionalHoursText": "Probetrainings können auch außerhalb der Öffnungszeiten vereinbart werden.",
+        "address": {
+          "line1": "Kaufingerstraße 9",
+          "city": "München",
+          "region": "BY",
+          "postalCode": "80538",
+          "countryCode": "DE"
+        },
+        "associations": [
+          "bwcon",
+          "cyberlago"
+        ],
+        "brands": [
+          "precor",
+          "technogym",
+          "maxxus"
+        ],
+        "description": "Willkommen in unserem exklusiven Fitnessstudio in der bayerischen Landeshauptstadt! Hier erwartet dich ein erstklassiges Trainingsangebot in stilvollem Ambiente. Trainiere mit modernsten Geräten, nimm an hochwertigen Kursen teil und lasse dich von unseren erfahrenen Trainern motivieren. Egal, ob du deine Ausdauer steigern, Muskeln aufbauen oder dich einfach nur fit halten möchtest – bei Georgs Gym München findest du die perfekte Balance aus Fitness, Entspannung und Lifestyle. Tauche ein in die Welt von Georgs Gym München und erlebe Fitness auf einem neuen Level.",
+        "hours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "07:00",
+                "end": "12:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "07:00",
+                "end": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "07:00",
+                "end": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "07:00",
+                "end": "00:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "12:00"
+              }
+            ]
+          },
+          "sunday": {
+            "isClosed": true
+          }
+        },
+        "logo": {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+            "width": 350,
+            "height": 350,
+            "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+                "width": 350,
+                "height": 350
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/150x150.jpg",
+                "width": 150,
+                "height": 150
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/94x94.jpg",
+                "width": 94,
+                "height": 94
+              }
+            ]
+          }
+        },
+        "name": "Georgs Gym",
+        "cityCoordinate": {
+          "latitude": 48.1364212,
+          "longitude": 11.5775499
+        },
+        "closed": false,
+        "dm_directoryParents_160212_store_pages": [
+          "160212-store-pages",
+          "160212-store-pages_de",
+          "160212-store-pages_de_by",
+          "160212-store-pages_de_by_munchen"
+        ],
+        "dm_directoryParents_16218_florian_stageing_2026_zx44i": [
+          "16218-florian-stageing-2026-zx44i",
+          "16218-florian-stageing-2026-zx44i_de",
+          "16218-florian-stageing-2026-zx44i_de_by",
+          "16218-florian-stageing-2026-zx44i_de_by_munchen"
+        ],
+        "pgs_florianStageing2026_florianStageing2026_td5ju_Url": "https://actually-weird-peacock.pgsdemo.com/by/m%C3%BCnchen/kaufingerstra%C3%9Fe-9",
+        "pgs_georgsGym20_storePages_mt0jv_Url": "https://ardently-capable-doberman.pgsdemo.com/by/m%C3%BCnchen/kaufingerstra%C3%9Fe-9",
+        "c_template11_template11_vic0y_Url": "https://briskly-missing-minnow.pgsdemo.com/static-6388",
+        "pgs_templatee_testt_8pnut_Url": "https://clearly-loose-rabbit.pgsdemo.com/de/by/m%C3%BCnchen/kaufingerstra%C3%9Fe-9",
+        "emails": [
+          "info@georgs-gym.com"
+        ],
+        "facebookCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            }
+          ]
+        },
+        "facebookName": "Georgs Gyms 1",
+        "facebookProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "facebookStoreId": "1868458",
+        "featuredMessage": {
+          "description": "Jetzt gratis Probetraining vereinbaren!",
+          "url": "https://www.georgs-gym.de"
+        },
+        "photoGallery": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+              "width": 1920,
+              "height": 2560,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+                  "width": 1920,
+                  "height": 2560
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+              "width": 640,
+              "height": 427,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+                  "width": 640,
+                  "height": 427
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+                  "width": 5040,
+                  "height": 3360
+                }
+              ]
+            }
+          }
+        ],
+        "geocodedCoordinate": {
+          "latitude": 48.137499,
+          "longitude": 11.573047
+        },
+        "googleCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/1788x1192.jpg",
+              "width": 1788,
+              "height": 1192
+            }
+          ]
+        },
+        "googleProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "isoRegionCode": "BY",
+        "keywords": [
+          "fit",
+          "Sportprogramm"
+        ],
+        "languages": [
+          "Englisch",
+          "Deutsch",
+          "Französisch"
+        ],
+        "mainPhone": "+49309815789",
+        "paymentOptions": [
+          "AMERICANEXPRESS",
+          "ANDROIDPAY",
+          "APPLEPAY",
+          "Bar",
+          "CASH",
+          "CONTACTLESSPAYME",
+          "ECKARTE",
+          "FINANCING",
+          "INVOICE",
+          "MAESTRO",
+          "MASTERCARD",
+          "Manuelle Lastsch",
+          "PAYBACKPAY",
+          "VISA",
+          "Überweisung"
+        ],
+        "products": [
+          "Rückentraining",
+          "Fitness",
+          "Personal Coach"
+        ],
+        "services": [
+          "Personal Training",
+          "Gruppentraining ab 5 Personen",
+          "Fitness"
+        ],
+        "specialities": [
+          "Workout Zirkeltraining",
+          "Personaltraining"
+        ],
+        "timezone": "Europe/Berlin",
+        "websiteUrl": {
+          "url": "https://www.georgs-gym.de",
+          "displayUrl": "https://www.georgs-gym.de",
+          "preferDisplayUrl": false
+        },
+        "yearEstablished": 1997,
+        "yextDisplayCoordinate": {
+          "latitude": 48.137499,
+          "longitude": 11.573047
+        },
+        "videos": [
+          {
+            "video": {
+              "url": "http://www.youtube.com/watch?v=S-GLO_PydqU"
+            }
+          }
+        ],
+        "meta": {
+          "accountId": "LH46574",
+          "uid": "1868458",
+          "id": "1657151",
+          "timestamp": "2026-01-20T15:07:14",
+          "createdTimestamp": "2014-10-24T17:40:59",
+          "folderId": "65068",
+          "schemaTypes": [
+            "ExerciseGym"
+          ],
+          "language": "de",
+          "countryCode": "DE",
+          "entityType": "location"
+        },
+        "categoryIds": [
+          "1259"
+        ],
+        "reviewGenerationUrl": "https://www.leavefeedback.app/tp/Ej4QV",
+        "firstPartyReviewPage": "",
+        "timeZoneUtcOffset": "+01:00"
+      },
+      {
+        "frequentlyAskedQuestions": [
+          {
+            "question": "Wohin schicke ich meine Post?",
+            "answer": "Die Adresse ist Allersbergerstraße 70, 89461 Nürnberg."
+          }
+        ],
+        "slug": "nürnberg",
+        "address": {
+          "line1": "Allersbergerstraße 70",
+          "city": "Nürnberg",
+          "region": "BY",
+          "postalCode": "90461",
+          "countryCode": "DE"
+        },
+        "addressHidden": false,
+        "description": "Willkommen in unserem familiären Fitnessstudio in Nürnberg! Hier legen wir Wert auf persönliche Betreuung und eine angenehme Atmosphäre. Egal, ob du Anfänger bist oder bereits Erfahrung hast, bei uns findest du ein breites Spektrum an Trainingsmöglichkeiten für jede Alters- und Fitnessstufe. Unsere freundlichen Trainer stehen dir mit Rat und Tat zur Seite und helfen dir dabei, deine Ziele zu erreichen. Tauche ein in die Gemeinschaft von Georgs Gym Nürnberg und starte deine Fitnessreise.",
+        "hours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "01:00",
+                "end": "02:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "01:00",
+                "end": "02:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "01:00",
+                "end": "02:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "01:00",
+                "end": "02:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "01:00",
+                "end": "02:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "01:00",
+                "end": "02:00"
+              }
+            ]
+          },
+          "sunday": {
+            "openIntervals": [
+              {
+                "start": "01:00",
+                "end": "02:00"
+              }
+            ]
+          }
+        },
+        "logo": {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+            "width": 350,
+            "height": 350,
+            "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+                "width": 350,
+                "height": 350
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/150x150.jpg",
+                "width": 150,
+                "height": 150
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/94x94.jpg",
+                "width": 94,
+                "height": 94
+              }
+            ]
+          }
+        },
+        "name": "Georgs Gym Nürnberg",
+        "cityCoordinate": {
+          "latitude": 49.45203,
+          "longitude": 11.07675
+        },
+        "closed": false,
+        "dm_directoryParents_160212_store_pages": [
+          "160212-store-pages",
+          "160212-store-pages_de",
+          "160212-store-pages_de_by",
+          "160212-store-pages_de_by_nurnberg"
+        ],
+        "dm_directoryParents_16218_florian_stageing_2026_zx44i": [
+          "16218-florian-stageing-2026-zx44i",
+          "16218-florian-stageing-2026-zx44i_de",
+          "16218-florian-stageing-2026-zx44i_de_by",
+          "16218-florian-stageing-2026-zx44i_de_by_nurnberg"
+        ],
+        "pgs_florianStageing2026_florianStageing2026_td5ju_Url": "https://actually-weird-peacock.pgsdemo.com/by/n%C3%BCrnberg/allersbergerstra%C3%9Fe-70",
+        "pgs_georgsGym20_storePages_mt0jv_Url": "https://ardently-capable-doberman.pgsdemo.com/by/n%C3%BCrnberg/allersbergerstra%C3%9Fe-70",
+        "c_metaDescription": "Pushperformance",
+        "c_template11_template11_vic0y_Url": "https://briskly-missing-minnow.pgsdemo.com/static-1950",
+        "pgs_templatee_testt_8pnut_Url": "https://clearly-loose-rabbit.pgsdemo.com/n%C3%BCrnberg",
+        "facebookName": "Georgs Gym",
+        "facebookStoreId": "1868459",
+        "featuredMessage": {
+          "description": "Jetzt gratis Probetraining vereinbaren!",
+          "url": "https://www.georgs-gym.de"
+        },
+        "geocodedCoordinate": {
+          "latitude": 49.441733,
+          "longitude": 11.089388
+        },
+        "isoRegionCode": "BY",
+        "mainPhone": "+49309815789",
+        "serviceArea": {},
+        "timezone": "Europe/Berlin",
+        "websiteUrl": {
+          "url": "https://www.georgs-gym.de",
+          "displayUrl": "https://www.georgs-gym.de",
+          "preferDisplayUrl": false
+        },
+        "yextDisplayCoordinate": {
+          "latitude": 49.441733,
+          "longitude": 11.089388
+        },
+        "yextRoutableCoordinate": {
+          "latitude": 49.4418112,
+          "longitude": 11.089567
+        },
+        "meta": {
+          "accountId": "LH46574",
+          "uid": "1868459",
+          "id": "1657152",
+          "timestamp": "2026-01-20T15:07:14",
+          "createdTimestamp": "2014-10-24T17:40:59",
+          "labels": [
+            "yoga",
+            "offeneStellen"
+          ],
+          "folderId": "65068",
+          "schemaTypes": [
+            "ExerciseGym",
+            "LocalBusiness"
+          ],
+          "language": "de",
+          "countryCode": "DE",
+          "entityType": "location"
+        },
+        "googleAttributes": {
+          "has_sauna": [
+            "true"
+          ]
+        },
+        "categoryIds": [
+          "1259",
+          "2280"
+        ],
+        "reviewGenerationUrl": "https://www.leavefeedback.app/tp/RmyNA",
+        "firstPartyReviewPage": "",
+        "timeZoneUtcOffset": "+01:00"
+      },
+      {
+        "additionalHoursText": "Probetrainings können auch außerhalb der Öffnungszeiten vereinbart werden.",
+        "address": {
+          "line1": "Mönckebergstraße 7",
+          "city": "Hamburg",
+          "region": "HH",
+          "postalCode": "20095",
+          "countryCode": "DE"
+        },
+        "associations": [
+          "bwcon",
+          "cyberlago"
+        ],
+        "brands": [
+          "precor",
+          "technogym",
+          "maxxus"
+        ],
+        "description": "Willkommen in unserem erstklassigen Fitnessstudio in der Hansestadt Hamburg! Bei uns erwarten dich großzügige Trainingsflächen, modernste Geräte und ein abwechslungsreiches Kursangebot. Egal, ob du deine Ausdauer steigern, Muskeln aufbauen oder einfach nur fit bleiben möchtest – bei Georgs Gym Hamburg findest du die optimalen Bedingungen für dein Training. Unsere erfahrenen Trainer unterstützen dich dabei, deine persönlichen Fitnessziele zu erreichen und motivieren dich, immer das Beste aus dir herauszuholen.",
+        "hours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "19:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "19:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "19:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "19:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "19:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "19:00"
+              }
+            ]
+          },
+          "sunday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "19:00"
+              }
+            ]
+          }
+        },
+        "logo": {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+            "width": 350,
+            "height": 350,
+            "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+                "width": 350,
+                "height": 350
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/150x150.jpg",
+                "width": 150,
+                "height": 150
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/94x94.jpg",
+                "width": 94,
+                "height": 94
+              }
+            ]
+          }
+        },
+        "name": "Georgs Gym",
+        "cityCoordinate": {
+          "latitude": 53.553340911865234,
+          "longitude": 9.992469787597656
+        },
+        "closed": false,
+        "dm_directoryParents_160212_store_pages": [
+          "160212-store-pages",
+          "160212-store-pages_de",
+          "160212-store-pages_de_hh",
+          "160212-store-pages_de_hh_hamburg"
+        ],
+        "dm_directoryParents_16218_florian_stageing_2026_zx44i": [
+          "16218-florian-stageing-2026-zx44i",
+          "16218-florian-stageing-2026-zx44i_de",
+          "16218-florian-stageing-2026-zx44i_de_hh",
+          "16218-florian-stageing-2026-zx44i_de_hh_hamburg"
+        ],
+        "pgs_florianStageing2026_florianStageing2026_td5ju_Url": "https://actually-weird-peacock.pgsdemo.com/hh/hamburg/m%C3%B6nckebergstra%C3%9Fe-7",
+        "pgs_georgsGym20_storePages_mt0jv_Url": "https://ardently-capable-doberman.pgsdemo.com/hh/hamburg/m%C3%B6nckebergstra%C3%9Fe-7",
+        "c_template11_template11_vic0y_Url": "https://briskly-missing-minnow.pgsdemo.com/static-3324",
+        "pgs_templatee_testt_8pnut_Url": "https://clearly-loose-rabbit.pgsdemo.com/de/hh/hamburg/m%C3%B6nckebergstra%C3%9Fe-7",
+        "emails": [
+          "info@georgs-gym.com"
+        ],
+        "facebookCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            }
+          ]
+        },
+        "facebookName": "Georgs Gym",
+        "facebookProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "facebookStoreId": "1868460",
+        "featuredMessage": {
+          "description": "Jetzt gratis Probetraining vereinbaren!",
+          "url": "https://www.georgs-gym.de"
+        },
+        "photoGallery": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+              "width": 1920,
+              "height": 2560,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+                  "width": 1920,
+                  "height": 2560
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+              "width": 640,
+              "height": 427,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+                  "width": 640,
+                  "height": 427
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+                  "width": 5040,
+                  "height": 3360
+                }
+              ]
+            }
+          }
+        ],
+        "geocodedCoordinate": {
+          "latitude": 53.551308,
+          "longitude": 10.003019
+        },
+        "googleCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/1788x1192.jpg",
+              "width": 1788,
+              "height": 1192
+            }
+          ]
+        },
+        "googleProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "isoRegionCode": "HH",
+        "keywords": [
+          "fit",
+          "Sportprogramm"
+        ],
+        "languages": [
+          "Englisch",
+          "Deutsch",
+          "Französisch"
+        ],
+        "mainPhone": "+49309815789",
+        "paymentOptions": [
+          "AMERICANEXPRESS",
+          "ANDROIDPAY",
+          "APPLEPAY",
+          "Bar",
+          "CASH",
+          "CONTACTLESSPAYME",
+          "ECKARTE",
+          "FINANCING",
+          "INVOICE",
+          "MAESTRO",
+          "MASTERCARD",
+          "Manuelle Lastsch",
+          "PAYBACKPAY",
+          "VISA",
+          "Überweisung"
+        ],
+        "products": [
+          "Rückentraining",
+          "Fitness",
+          "Personal Coach"
+        ],
+        "services": [
+          "Personal Training",
+          "Gruppentraining ab 5 Personen",
+          "Fitness"
+        ],
+        "specialities": [
+          "Workout Zirkeltraining",
+          "Personaltraining"
+        ],
+        "timezone": "Europe/Berlin",
+        "websiteUrl": {
+          "url": "https://www.georgs-gym.de",
+          "displayUrl": "https://www.georgs-gym.de",
+          "preferDisplayUrl": false
+        },
+        "yearEstablished": 1997,
+        "yextDisplayCoordinate": {
+          "latitude": 53.551308,
+          "longitude": 10.003019
+        },
+        "videos": [
+          {
+            "video": {
+              "url": "http://www.youtube.com/watch?v=S-GLO_PydqU"
+            }
+          }
+        ],
+        "meta": {
+          "accountId": "LH46574",
+          "uid": "1868460",
+          "id": "1657153",
+          "timestamp": "2026-01-20T15:07:14",
+          "createdTimestamp": "2014-10-24T17:40:59",
+          "folderId": "hamburg",
+          "schemaTypes": [
+            "ExerciseGym"
+          ],
+          "language": "de",
+          "countryCode": "DE",
+          "entityType": "location"
+        },
+        "categoryIds": [
+          "1259"
+        ],
+        "reviewGenerationUrl": "https://www.leavefeedback.app/tp/4n3QW",
+        "firstPartyReviewPage": "",
+        "timeZoneUtcOffset": "+01:00"
+      },
+      {
+        "additionalHoursText": "Probetrainings können auch außerhalb der Öffnungszeiten vereinbart werden.",
+        "address": {
+          "line1": "Hauptstraße 2",
+          "city": "Wenningstedt-Braderup (Sylt)",
+          "region": "SH",
+          "postalCode": "25996",
+          "countryCode": "DE"
+        },
+        "addressHidden": false,
+        "associations": [
+          "bwcon",
+          "cyberlago"
+        ],
+        "brands": [
+          "precor",
+          "technogym",
+          "maxxus"
+        ],
+        "description": "Willkommen in unserem exklusiven Fitnessstudio auf der zauberhaften Insel Sylt! Mit Blick auf die glitzernde Nordsee bieten wir dir eine einzigartige Trainingsumgebung. Erlebe erstklassige Ausstattung, abwechslungsreiche Kurse und professionelle Betreuung, die dich dabei unterstützen, deine Fitnessziele zu erreichen. Egal, ob du nach einem Strandspaziergang trainieren möchtest oder deine Kraft und Ausdauer verbessern willst, Georgs Gym Sylt ist der perfekte Ort, um Körper und Geist in Einklang zu bringen.",
+        "hours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "sunday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          }
+        },
+        "logo": {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+            "width": 350,
+            "height": 350,
+            "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+                "width": 350,
+                "height": 350
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/150x150.jpg",
+                "width": 150,
+                "height": 150
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/94x94.jpg",
+                "width": 94,
+                "height": 94
+              }
+            ]
+          }
+        },
+        "name": "Georgs Gym",
+        "cityCoordinate": {
+          "latitude": 54.931501,
+          "longitude": 8.3530116
+        },
+        "closed": false,
+        "dm_directoryParents_160212_store_pages": [
+          "160212-store-pages",
+          "160212-store-pages_de",
+          "160212-store-pages_de_sh",
+          "160212-store-pages_de_sh_wenningstedt_braderup_sylt"
+        ],
+        "dm_directoryParents_16218_florian_stageing_2026_zx44i": [
+          "16218-florian-stageing-2026-zx44i",
+          "16218-florian-stageing-2026-zx44i_de",
+          "16218-florian-stageing-2026-zx44i_de_sh",
+          "16218-florian-stageing-2026-zx44i_de_sh_wenningstedt_braderup_sylt"
+        ],
+        "pgs_florianStageing2026_florianStageing2026_td5ju_Url": "https://actually-weird-peacock.pgsdemo.com/sh/wenningstedt-braderup-%28sylt%29/hauptstra%C3%9Fe-2",
+        "pgs_georgsGym20_storePages_mt0jv_Url": "https://ardently-capable-doberman.pgsdemo.com/sh/wenningstedt-braderup-%28sylt%29/hauptstra%C3%9Fe-2",
+        "c_template11_template11_vic0y_Url": "https://briskly-missing-minnow.pgsdemo.com/static-8022",
+        "pgs_templatee_testt_8pnut_Url": "https://clearly-loose-rabbit.pgsdemo.com/de/sh/wenningstedt-braderup-%28sylt%29/hauptstra%C3%9Fe-2",
+        "emails": [
+          "info@georgs-gym.com"
+        ],
+        "facebookCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            }
+          ]
+        },
+        "facebookName": "Georgs Gym",
+        "facebookProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "facebookStoreId": "1868461",
+        "featuredMessage": {
+          "description": "Jetzt gratis Probetraining vereinbaren!",
+          "url": "https://www.georgs-gym.de"
+        },
+        "photoGallery": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+              "width": 1920,
+              "height": 2560,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+                  "width": 1920,
+                  "height": 2560
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+              "width": 640,
+              "height": 427,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+                  "width": 640,
+                  "height": 427
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+                  "width": 5040,
+                  "height": 3360
+                }
+              ]
+            }
+          }
+        ],
+        "geocodedCoordinate": {
+          "latitude": 54.937004,
+          "longitude": 8.324514
+        },
+        "googleCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/1788x1192.jpg",
+              "width": 1788,
+              "height": 1192
+            }
+          ]
+        },
+        "googleProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "isoRegionCode": "SH",
+        "keywords": [
+          "fit",
+          "Sportprogramm"
+        ],
+        "languages": [
+          "Englisch",
+          "Deutsch",
+          "Französisch"
+        ],
+        "mainPhone": "+49309815789",
+        "paymentOptions": [
+          "AMERICANEXPRESS",
+          "ANDROIDPAY",
+          "APPLEPAY",
+          "Bar",
+          "CASH",
+          "CONTACTLESSPAYME",
+          "ECKARTE",
+          "FINANCING",
+          "INVOICE",
+          "MAESTRO",
+          "MASTERCARD",
+          "Manuelle Lastsch",
+          "PAYBACKPAY",
+          "VISA",
+          "Überweisung"
+        ],
+        "products": [
+          "Rückentraining",
+          "Fitness",
+          "Personal Coach"
+        ],
+        "services": [
+          "Personal Training",
+          "Gruppentraining ab 5 Personen",
+          "Fitness"
+        ],
+        "specialities": [
+          "Workout Zirkeltraining",
+          "Personaltraining"
+        ],
+        "timezone": "Europe/Berlin",
+        "websiteUrl": {
+          "url": "https://www.georgs-gym.de",
+          "displayUrl": "https://www.georgs-gym.de",
+          "preferDisplayUrl": false
+        },
+        "yearEstablished": 1997,
+        "yextDisplayCoordinate": {
+          "latitude": 54.937004,
+          "longitude": 8.324514
+        },
+        "yextRoutableCoordinate": {
+          "latitude": 54.9370917,
+          "longitude": 8.324591
+        },
+        "videos": [
+          {
+            "video": {
+              "url": "http://www.youtube.com/watch?v=S-GLO_PydqU"
+            }
+          }
+        ],
+        "meta": {
+          "accountId": "LH46574",
+          "uid": "1868461",
+          "id": "1657154",
+          "timestamp": "2026-01-20T15:07:14",
+          "createdTimestamp": "2014-10-24T17:40:59",
+          "folderId": "75511",
+          "schemaTypes": [
+            "ExerciseGym"
+          ],
+          "language": "de",
+          "countryCode": "DE",
+          "entityType": "location"
+        },
+        "categoryIds": [
+          "1259"
+        ],
+        "reviewGenerationUrl": "https://www.leavefeedback.app/tp/j7kAy",
+        "firstPartyReviewPage": "",
+        "timeZoneUtcOffset": "+01:00"
+      },
+      {
+        "additionalHoursText": "Probetrainings können auch außerhalb der Öffnungszeiten vereinbart werden.",
+        "address": {
+          "line1": "Kettwiger Straße 39",
+          "city": "Essen",
+          "region": "NW",
+          "postalCode": "45127",
+          "countryCode": "DE"
+        },
+        "associations": [
+          "bwcon",
+          "cyberlago"
+        ],
+        "brands": [
+          "precor",
+          "technogym",
+          "maxxus"
+        ],
+        "description": "Willkommen in unserem vielfältigen Fitnessstudio in Essen! Hier erwartet dich eine große Auswahl an modernen Trainingsgeräten, abwechslungsreichen Kursen und kompetenten Trainern, die dich auf deinem Fitnessweg begleiten. Egal, ob du deine körperliche Fitness steigern, deine Gesundheit verbessern oder einfach nur Spaß am Training haben möchtest – bei Georgs Gym Essen findest du die optimale Trainingsmöglichkeit für dich. Tauche ein in die Welt des Fitness und erlebe die Vielfalt unseres Studios.",
+        "hours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "sunday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          }
+        },
+        "logo": {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+            "width": 350,
+            "height": 350,
+            "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+                "width": 350,
+                "height": 350
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/150x150.jpg",
+                "width": 150,
+                "height": 150
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/94x94.jpg",
+                "width": 94,
+                "height": 94
+              }
+            ]
+          }
+        },
+        "name": "Georgs Gym",
+        "cityCoordinate": {
+          "latitude": 51.45180892944336,
+          "longitude": 7.0106000900268555
+        },
+        "closed": false,
+        "dm_directoryParents_160212_store_pages": [
+          "160212-store-pages",
+          "160212-store-pages_de",
+          "160212-store-pages_de_nw",
+          "160212-store-pages_de_nw_essen"
+        ],
+        "dm_directoryParents_16218_florian_stageing_2026_zx44i": [
+          "16218-florian-stageing-2026-zx44i",
+          "16218-florian-stageing-2026-zx44i_de",
+          "16218-florian-stageing-2026-zx44i_de_nw",
+          "16218-florian-stageing-2026-zx44i_de_nw_essen"
+        ],
+        "pgs_florianStageing2026_florianStageing2026_td5ju_Url": "https://actually-weird-peacock.pgsdemo.com/nw/essen/kettwiger-stra%C3%9Fe-39",
+        "pgs_georgsGym20_storePages_mt0jv_Url": "https://ardently-capable-doberman.pgsdemo.com/nw/essen/kettwiger-stra%C3%9Fe-39",
+        "c_template11_template11_vic0y_Url": "https://briskly-missing-minnow.pgsdemo.com/static-7131",
+        "pgs_templatee_testt_8pnut_Url": "https://clearly-loose-rabbit.pgsdemo.com/de/nw/essen/kettwiger-stra%C3%9Fe-39",
+        "emails": [
+          "info@georgs-gym.com"
+        ],
+        "facebookCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            }
+          ]
+        },
+        "facebookName": "Georgs Gym",
+        "facebookProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "facebookStoreId": "1868462",
+        "featuredMessage": {
+          "description": "Jetzt gratis Probetraining vereinbaren!",
+          "url": "https://www.georgs-gym.de"
+        },
+        "photoGallery": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+              "width": 1920,
+              "height": 2560,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+                  "width": 1920,
+                  "height": 2560
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+              "width": 640,
+              "height": 427,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+                  "width": 640,
+                  "height": 427
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+                  "width": 5040,
+                  "height": 3360
+                }
+              ]
+            }
+          }
+        ],
+        "geocodedCoordinate": {
+          "latitude": 51.456038,
+          "longitude": 7.012553
+        },
+        "googleCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/1788x1192.jpg",
+              "width": 1788,
+              "height": 1192
+            }
+          ]
+        },
+        "googleProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "isoRegionCode": "NW",
+        "keywords": [
+          "fit",
+          "Sportprogramm"
+        ],
+        "languages": [
+          "Englisch",
+          "Deutsch",
+          "Französisch"
+        ],
+        "mainPhone": "+49309815789",
+        "paymentOptions": [
+          "AMERICANEXPRESS",
+          "ANDROIDPAY",
+          "APPLEPAY",
+          "Bar",
+          "CASH",
+          "CONTACTLESSPAYME",
+          "ECKARTE",
+          "FINANCING",
+          "INVOICE",
+          "MAESTRO",
+          "MASTERCARD",
+          "Manuelle Lastsch",
+          "PAYBACKPAY",
+          "VISA",
+          "Überweisung"
+        ],
+        "products": [
+          "Rückentraining",
+          "Fitness",
+          "Personal Coach"
+        ],
+        "services": [
+          "Personal Training",
+          "Gruppentraining ab 5 Personen",
+          "Fitness"
+        ],
+        "specialities": [
+          "Workout Zirkeltraining",
+          "Personaltraining"
+        ],
+        "timezone": "Europe/Berlin",
+        "websiteUrl": {
+          "url": "https://www.georgs-gym.de",
+          "displayUrl": "https://www.georgs-gym.de",
+          "preferDisplayUrl": false
+        },
+        "yearEstablished": 1997,
+        "yextDisplayCoordinate": {
+          "latitude": 51.456038,
+          "longitude": 7.012553
+        },
+        "videos": [
+          {
+            "video": {
+              "url": "http://www.youtube.com/watch?v=S-GLO_PydqU"
+            }
+          }
+        ],
+        "meta": {
+          "accountId": "LH46574",
+          "uid": "1868462",
+          "id": "1657155",
+          "timestamp": "2026-01-20T15:07:14",
+          "createdTimestamp": "2014-10-24T17:40:59",
+          "folderId": "75511",
+          "schemaTypes": [
+            "ExerciseGym"
+          ],
+          "language": "de",
+          "countryCode": "DE",
+          "entityType": "location"
+        },
+        "categoryIds": [
+          "1259"
+        ],
+        "reviewGenerationUrl": "https://www.leavefeedback.app/tp/D4R0j",
+        "firstPartyReviewPage": "",
+        "timeZoneUtcOffset": "+01:00"
+      },
+      {
+        "additionalHoursText": "Probetrainings können auch außerhalb der Öffnungszeiten vereinbart werden.",
+        "address": {
+          "line1": "Markt 10",
+          "city": "Dortmund",
+          "region": "NW",
+          "postalCode": "44137",
+          "countryCode": "DE"
+        },
+        "associations": [
+          "bwcon",
+          "cyberlago"
+        ],
+        "brands": [
+          "precor",
+          "technogym",
+          "maxxus"
+        ],
+        "description": "Willkommen in unserem dynamischen Fitnessstudio in Dortmund! Hier findest du eine motivierende Umgebung, um deine Fitnessziele zu erreichen. Trainiere mit modernsten Geräten, nimm an energiegeladenen Kursen teil und profitiere von der Unterstützung unserer qualifizierten Trainer. Egal, ob du deine Ausdauer steigern, Muskeln aufbauen oder dich einfach fit halten möchtest – bei Georgs Gym Dortmund findest du die perfekte Mischung aus Training, Motivation und Spaß.",
+        "hours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "sunday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          }
+        },
+        "logo": {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+            "width": 350,
+            "height": 350,
+            "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+                "width": 350,
+                "height": 350
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/150x150.jpg",
+                "width": 150,
+                "height": 150
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/94x94.jpg",
+                "width": 94,
+                "height": 94
+              }
+            ]
+          }
+        },
+        "name": "Georgs Gym",
+        "cityCoordinate": {
+          "latitude": 51.51660919189453,
+          "longitude": 7.458290100097656
+        },
+        "closed": false,
+        "dm_directoryParents_160212_store_pages": [
+          "160212-store-pages",
+          "160212-store-pages_de",
+          "160212-store-pages_de_nw",
+          "160212-store-pages_de_nw_dortmund"
+        ],
+        "dm_directoryParents_16218_florian_stageing_2026_zx44i": [
+          "16218-florian-stageing-2026-zx44i",
+          "16218-florian-stageing-2026-zx44i_de",
+          "16218-florian-stageing-2026-zx44i_de_nw",
+          "16218-florian-stageing-2026-zx44i_de_nw_dortmund"
+        ],
+        "pgs_florianStageing2026_florianStageing2026_td5ju_Url": "https://actually-weird-peacock.pgsdemo.com/nw/dortmund/markt-10",
+        "pgs_georgsGym20_storePages_mt0jv_Url": "https://ardently-capable-doberman.pgsdemo.com/nw/dortmund/markt-10",
+        "c_template11_template11_vic0y_Url": "https://briskly-missing-minnow.pgsdemo.com/static-9965",
+        "pgs_templatee_testt_8pnut_Url": "https://clearly-loose-rabbit.pgsdemo.com/de/nw/dortmund/markt-10",
+        "emails": [
+          "info@georgs-gym.com"
+        ],
+        "facebookCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            }
+          ]
+        },
+        "facebookName": "Georgs Gym",
+        "facebookProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "facebookStoreId": "1868463",
+        "featuredMessage": {
+          "description": "Jetzt gratis Probetraining vereinbaren!",
+          "url": "https://www.georgs-gym.de"
+        },
+        "photoGallery": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+              "width": 1920,
+              "height": 2560,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+                  "width": 1920,
+                  "height": 2560
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+              "width": 640,
+              "height": 427,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+                  "width": 640,
+                  "height": 427
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+                  "width": 5040,
+                  "height": 3360
+                }
+              ]
+            }
+          }
+        ],
+        "geocodedCoordinate": {
+          "latitude": 51.513518,
+          "longitude": 7.466408
+        },
+        "googleCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/1788x1192.jpg",
+              "width": 1788,
+              "height": 1192
+            }
+          ]
+        },
+        "googleProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "isoRegionCode": "NW",
+        "keywords": [
+          "fit",
+          "Sportprogramm"
+        ],
+        "languages": [
+          "Englisch",
+          "Deutsch",
+          "Französisch"
+        ],
+        "mainPhone": "+49309815789",
+        "paymentOptions": [
+          "AMERICANEXPRESS",
+          "ANDROIDPAY",
+          "APPLEPAY",
+          "Bar",
+          "CASH",
+          "CONTACTLESSPAYME",
+          "ECKARTE",
+          "FINANCING",
+          "INVOICE",
+          "MAESTRO",
+          "MASTERCARD",
+          "Manuelle Lastsch",
+          "PAYBACKPAY",
+          "VISA",
+          "Überweisung"
+        ],
+        "products": [
+          "Rückentraining",
+          "Fitness",
+          "Personal Coach"
+        ],
+        "services": [
+          "Personal Training",
+          "Gruppentraining ab 5 Personen",
+          "Fitness"
+        ],
+        "specialities": [
+          "Workout Zirkeltraining",
+          "Personaltraining"
+        ],
+        "timezone": "Europe/Berlin",
+        "websiteUrl": {
+          "url": "https://www.georgs-gym.de",
+          "displayUrl": "https://www.georgs-gym.de",
+          "preferDisplayUrl": false
+        },
+        "yearEstablished": 1997,
+        "yextDisplayCoordinate": {
+          "latitude": 51.513518,
+          "longitude": 7.466408
+        },
+        "videos": [
+          {
+            "video": {
+              "url": "http://www.youtube.com/watch?v=S-GLO_PydqU"
+            }
+          }
+        ],
+        "meta": {
+          "accountId": "LH46574",
+          "uid": "1868463",
+          "id": "1657156",
+          "timestamp": "2026-01-20T15:07:14",
+          "createdTimestamp": "2014-10-24T17:40:59",
+          "folderId": "75511",
+          "schemaTypes": [
+            "ExerciseGym"
+          ],
+          "language": "de",
+          "countryCode": "DE",
+          "entityType": "location"
+        },
+        "categoryIds": [
+          "1259"
+        ],
+        "reviewGenerationUrl": "https://www.leavefeedback.app/tp/q7qxn",
+        "firstPartyReviewPage": "",
+        "timeZoneUtcOffset": "+01:00"
+      },
+      {
+        "additionalHoursText": "Probetrainings können auch außerhalb der Öffnungszeiten vereinbart werden.",
+        "address": {
+          "line1": "Frankengutstraße 10",
+          "city": "Bayreuth",
+          "region": "BY",
+          "postalCode": "95444",
+          "countryCode": "DE"
+        },
+        "addressHidden": false,
+        "associations": [
+          "bwcon",
+          "cyberlago"
+        ],
+        "brands": [
+          "precor",
+          "technogym",
+          "maxxus"
+        ],
+        "description": "Willkommen in unserem modernen Fitnessstudio in Bayreuth! Hier dreht sich alles um deine Fitness und dein Wohlbefinden. Trainiere mit topaktuellen Geräten, nimm an abwechslungsreichen Kursen teil und lasse dich von unseren qualifizierten Trainern motivieren. Egal, ob du deine Ausdauer verbessern, Muskeln aufbauen oder einfach nur fit bleiben möchtest, bei uns findest du die besten Voraussetzungen für dein Training. Tauche ein in die inspirierende Atmosphäre von Georgs Gym Bayreuth und erreiche deine Fitnessziele auf höchstem Niveau.",
+        "hours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "sunday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          }
+        },
+        "logo": {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+            "width": 350,
+            "height": 350,
+            "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+                "width": 350,
+                "height": 350
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/150x150.jpg",
+                "width": 150,
+                "height": 150
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/94x94.jpg",
+                "width": 94,
+                "height": 94
+              }
+            ]
+          }
+        },
+        "name": "Georgs Gym",
+        "cityCoordinate": {
+          "latitude": 49.9451904,
+          "longitude": 11.5710201
+        },
+        "closed": false,
+        "dm_directoryParents_160212_store_pages": [
+          "160212-store-pages",
+          "160212-store-pages_de",
+          "160212-store-pages_de_by",
+          "160212-store-pages_de_by_bayreuth"
+        ],
+        "dm_directoryParents_16218_florian_stageing_2026_zx44i": [
+          "16218-florian-stageing-2026-zx44i",
+          "16218-florian-stageing-2026-zx44i_de",
+          "16218-florian-stageing-2026-zx44i_de_by",
+          "16218-florian-stageing-2026-zx44i_de_by_bayreuth"
+        ],
+        "pgs_florianStageing2026_florianStageing2026_td5ju_Url": "https://actually-weird-peacock.pgsdemo.com/by/bayreuth/frankengutstra%C3%9Fe-10",
+        "pgs_georgsGym20_storePages_mt0jv_Url": "https://ardently-capable-doberman.pgsdemo.com/by/bayreuth/frankengutstra%C3%9Fe-10",
+        "c_template11_template11_vic0y_Url": "https://briskly-missing-minnow.pgsdemo.com/static-2305",
+        "pgs_templatee_testt_8pnut_Url": "https://clearly-loose-rabbit.pgsdemo.com/de/by/bayreuth/frankengutstra%C3%9Fe-10",
+        "emails": [
+          "info@georgs-gym.com"
+        ],
+        "facebookCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            }
+          ]
+        },
+        "facebookName": "Georgs Gym",
+        "facebookProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "facebookStoreId": "1868464",
+        "featuredMessage": {
+          "description": "Jetzt gratis Probetraining vereinbaren!",
+          "url": "https://www.georgs-gym.de"
+        },
+        "photoGallery": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+              "width": 1920,
+              "height": 2560,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+                  "width": 1920,
+                  "height": 2560
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+              "width": 640,
+              "height": 427,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+                  "width": 640,
+                  "height": 427
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+                  "width": 5040,
+                  "height": 3360
+                }
+              ]
+            }
+          }
+        ],
+        "geocodedCoordinate": {
+          "latitude": 49.933359,
+          "longitude": 11.584014
+        },
+        "googleCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/1788x1192.jpg",
+              "width": 1788,
+              "height": 1192
+            }
+          ]
+        },
+        "googleProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "isoRegionCode": "BY",
+        "keywords": [
+          "fit",
+          "Sportprogramm"
+        ],
+        "languages": [
+          "Englisch",
+          "Deutsch",
+          "Französisch"
+        ],
+        "mainPhone": "+49309815789",
+        "paymentOptions": [
+          "AMERICANEXPRESS",
+          "ANDROIDPAY",
+          "APPLEPAY",
+          "Bar",
+          "CASH",
+          "CONTACTLESSPAYME",
+          "ECKARTE",
+          "FINANCING",
+          "INVOICE",
+          "MAESTRO",
+          "MASTERCARD",
+          "Manuelle Lastsch",
+          "PAYBACKPAY",
+          "VISA",
+          "Überweisung"
+        ],
+        "products": [
+          "Rückentraining",
+          "Fitness",
+          "Personal Coach"
+        ],
+        "services": [
+          "Personal Training",
+          "Gruppentraining ab 5 Personen",
+          "Fitness"
+        ],
+        "specialities": [
+          "Workout Zirkeltraining",
+          "Personaltraining"
+        ],
+        "timezone": "Europe/Berlin",
+        "websiteUrl": {
+          "url": "https://www.georgs-gym.de",
+          "displayUrl": "https://www.georgs-gym.de",
+          "preferDisplayUrl": false
+        },
+        "yearEstablished": 1997,
+        "yextDisplayCoordinate": {
+          "latitude": 49.933359,
+          "longitude": 11.584014
+        },
+        "yextRoutableCoordinate": {
+          "latitude": 49.93343,
+          "longitude": 11.5843968
+        },
+        "videos": [
+          {
+            "video": {
+              "url": "http://www.youtube.com/watch?v=S-GLO_PydqU"
+            }
+          }
+        ],
+        "meta": {
+          "accountId": "LH46574",
+          "uid": "1868464",
+          "id": "1657157",
+          "timestamp": "2026-01-20T15:07:14",
+          "createdTimestamp": "2014-10-24T17:40:59",
+          "folderId": "75510",
+          "schemaTypes": [
+            "ExerciseGym"
+          ],
+          "language": "de",
+          "countryCode": "DE",
+          "entityType": "location"
+        },
+        "categoryIds": [
+          "1259"
+        ],
+        "reviewGenerationUrl": "https://www.leavefeedback.app/tp/MVwNq",
+        "firstPartyReviewPage": "",
+        "timeZoneUtcOffset": "+01:00"
+      },
+      {
+        "additionalHoursText": "Probetrainings können auch außerhalb der Öffnungszeiten vereinbart werden.",
+        "address": {
+          "line1": "Friedrichstraße 133",
+          "city": "Düsseldorf",
+          "region": "NW",
+          "postalCode": "40217",
+          "countryCode": "DE"
+        },
+        "associations": [
+          "bwcon",
+          "cyberlago"
+        ],
+        "brands": [
+          "precor",
+          "technogym",
+          "maxxus"
+        ],
+        "description": "Willkommen in unserem stilvollen Fitnessstudio in Düsseldorf! Hier erwartet dich eine angenehme Atmosphäre, in der du dich beim Training rundum wohlfühlen kannst. Trainiere mit modernsten Geräten, nimm an abwechslungsreichen Kursen teil und lasse dich von unseren erfahrenen Trainern motivieren. Egal, ob du deine Ausdauer steigern, deine Muskeln definieren oder einfach nur in Form bleiben möchtest – bei Georgs Gym Düsseldorf findest du alles, was du für ein effektives Training benötigst.",
+        "hours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "sunday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          }
+        },
+        "logo": {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+            "width": 350,
+            "height": 350,
+            "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+                "width": 350,
+                "height": 350
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/150x150.jpg",
+                "width": 150,
+                "height": 150
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/94x94.jpg",
+                "width": 94,
+                "height": 94
+              }
+            ]
+          }
+        },
+        "name": "Georgs Gym",
+        "cityCoordinate": {
+          "latitude": 51.21562957763672,
+          "longitude": 6.776040077209473
+        },
+        "closed": false,
+        "dm_directoryParents_160212_store_pages": [
+          "160212-store-pages",
+          "160212-store-pages_de",
+          "160212-store-pages_de_nw",
+          "160212-store-pages_de_nw_dusseldorf"
+        ],
+        "dm_directoryParents_16218_florian_stageing_2026_zx44i": [
+          "16218-florian-stageing-2026-zx44i",
+          "16218-florian-stageing-2026-zx44i_de",
+          "16218-florian-stageing-2026-zx44i_de_nw",
+          "16218-florian-stageing-2026-zx44i_de_nw_dusseldorf"
+        ],
+        "pgs_florianStageing2026_florianStageing2026_td5ju_Url": "https://actually-weird-peacock.pgsdemo.com/nw/d%C3%BCsseldorf/friedrichstra%C3%9Fe-133",
+        "pgs_georgsGym20_storePages_mt0jv_Url": "https://ardently-capable-doberman.pgsdemo.com/nw/d%C3%BCsseldorf/friedrichstra%C3%9Fe-133",
+        "c_template11_template11_vic0y_Url": "https://briskly-missing-minnow.pgsdemo.com/static-2798",
+        "pgs_templatee_testt_8pnut_Url": "https://clearly-loose-rabbit.pgsdemo.com/de/nw/d%C3%BCsseldorf/friedrichstra%C3%9Fe-133",
+        "emails": [
+          "info@georgs-gym.com"
+        ],
+        "facebookCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            }
+          ]
+        },
+        "facebookName": "Georgs Gym",
+        "facebookProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "facebookStoreId": "1868465",
+        "featuredMessage": {
+          "description": "Jetzt gratis Probetraining vereinbaren!",
+          "url": "https://www.georgs-gym.de"
+        },
+        "photoGallery": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+              "width": 1920,
+              "height": 2560,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+                  "width": 1920,
+                  "height": 2560
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+              "width": 640,
+              "height": 427,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+                  "width": 640,
+                  "height": 427
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+                  "width": 5040,
+                  "height": 3360
+                }
+              ]
+            }
+          }
+        ],
+        "geocodedCoordinate": {
+          "latitude": 51.210065,
+          "longitude": 6.776541
+        },
+        "googleCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/1788x1192.jpg",
+              "width": 1788,
+              "height": 1192
+            }
+          ]
+        },
+        "googleProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "isoRegionCode": "NW",
+        "keywords": [
+          "fit",
+          "Sportprogramm"
+        ],
+        "languages": [
+          "Englisch",
+          "Deutsch",
+          "Französisch"
+        ],
+        "mainPhone": "+49309815789",
+        "paymentOptions": [
+          "AMERICANEXPRESS",
+          "ANDROIDPAY",
+          "APPLEPAY",
+          "Bar",
+          "CASH",
+          "CONTACTLESSPAYME",
+          "ECKARTE",
+          "FINANCING",
+          "INVOICE",
+          "MAESTRO",
+          "MASTERCARD",
+          "Manuelle Lastsch",
+          "PAYBACKPAY",
+          "VISA",
+          "Überweisung"
+        ],
+        "products": [
+          "Rückentraining",
+          "Fitness",
+          "Personal Coach"
+        ],
+        "services": [
+          "Personal Training",
+          "Gruppentraining ab 5 Personen",
+          "Fitness"
+        ],
+        "specialities": [
+          "Workout Zirkeltraining",
+          "Personaltraining"
+        ],
+        "timezone": "Europe/Berlin",
+        "websiteUrl": {
+          "url": "https://www.georgs-gym.de",
+          "displayUrl": "https://www.georgs-gym.de",
+          "preferDisplayUrl": false
+        },
+        "yearEstablished": 1997,
+        "yextDisplayCoordinate": {
+          "latitude": 51.210065,
+          "longitude": 6.776541
+        },
+        "videos": [
+          {
+            "video": {
+              "url": "http://www.youtube.com/watch?v=S-GLO_PydqU"
+            }
+          }
+        ],
+        "meta": {
+          "accountId": "LH46574",
+          "uid": "1868465",
+          "id": "1657158",
+          "timestamp": "2026-01-20T15:07:14",
+          "createdTimestamp": "2014-10-24T17:40:59",
+          "folderId": "75511",
+          "schemaTypes": [
+            "ExerciseGym"
+          ],
+          "language": "de",
+          "countryCode": "DE",
+          "entityType": "location"
+        },
+        "categoryIds": [
+          "1259"
+        ],
+        "reviewGenerationUrl": "https://www.leavefeedback.app/tp/PalWW",
+        "firstPartyReviewPage": "",
+        "timeZoneUtcOffset": "+01:00"
+      },
+      {
+        "savedFilters": [
+          "265975"
+        ],
+        "additionalHoursText": "Probetrainings können auch außerhalb der Öffnungszeiten vereinbart werden.",
+        "address": {
+          "line1": "Ostertorsteinweg 1",
+          "city": "Bremen",
+          "region": "HB",
+          "postalCode": "28203",
+          "countryCode": "DE"
+        },
+        "associations": [
+          "bwcon",
+          "cyberlago"
+        ],
+        "brands": [
+          "precor",
+          "technogym",
+          "maxxus"
+        ],
+        "description": "Willkommen in unserem familiären Fitnessstudio in Bremen! Hier legen wir Wert auf persönliche Betreuung und eine angenehme Atmosphäre. Egal, ob du Anfänger bist oder bereits Erfahrung hast, bei uns findest du ein breites Spektrum an Trainingsmöglichkeiten für jede Alters- und Fitnessstufe. Unsere freundlichen Trainer stehen dir mit Rat und Tat zur Seite und helfen dir dabei, deine Ziele zu erreichen. Tauche ein in die Gemeinschaft von Georgs Gym Bremen und starte deine Fitnessreise.",
+        "hours": {
+          "monday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "thursday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "friday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "saturday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "sunday": {
+            "openIntervals": [
+              {
+                "start": "08:00",
+                "end": "18:00"
+              }
+            ]
+          }
+        },
+        "logo": {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+            "width": 350,
+            "height": 350,
+            "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+                "width": 350,
+                "height": 350
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/150x150.jpg",
+                "width": 150,
+                "height": 150
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/94x94.jpg",
+                "width": 94,
+                "height": 94
+              }
+            ]
+          }
+        },
+        "name": "Georgs Gym",
+        "cityCoordinate": {
+          "latitude": 53.07509994506836,
+          "longitude": 8.80469036102295
+        },
+        "closed": true,
+        "dm_directoryParents_160212_store_pages": [
+          "160212-store-pages",
+          "160212-store-pages_de",
+          "160212-store-pages_de_hb",
+          "160212-store-pages_de_hb_bremen"
+        ],
+        "dm_directoryParents_16218_florian_stageing_2026_zx44i": [
+          "16218-florian-stageing-2026-zx44i",
+          "16218-florian-stageing-2026-zx44i_de",
+          "16218-florian-stageing-2026-zx44i_de_hb",
+          "16218-florian-stageing-2026-zx44i_de_hb_bremen"
+        ],
+        "pgs_florianStageing2026_florianStageing2026_td5ju_Url": "https://actually-weird-peacock.pgsdemo.com/hb/bremen/ostertorsteinweg-1",
+        "pgs_georgsGym20_storePages_mt0jv_Url": "https://ardently-capable-doberman.pgsdemo.com/hb/bremen/ostertorsteinweg-1",
+        "c_template11_template11_vic0y_Url": "https://briskly-missing-minnow.pgsdemo.com/static-556",
+        "pgs_templatee_testt_8pnut_Url": "https://clearly-loose-rabbit.pgsdemo.com/de/hb/bremen/ostertorsteinweg-1",
+        "emails": [
+          "info@georgs-gym.com"
+        ],
+        "facebookCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            }
+          ]
+        },
+        "facebookName": "Georgs Gym",
+        "facebookProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "facebookStoreId": "1868466",
+        "featuredMessage": {
+          "description": "Jetzt gratis Probetraining vereinbaren!",
+          "url": "https://www.georgs-gym.de"
+        },
+        "photoGallery": [
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+              "width": 1920,
+              "height": 2560,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/S7JjQvmQsKF036Aq7o0ZhtlwTCu0Igbe2yVWhuR9gzY/1920x2560.jpg",
+                  "width": 1920,
+                  "height": 2560
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+              "width": 640,
+              "height": 427,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/V4BlSneXqPxkuRHX4xTjAjVmwY2E5e0ZQZ0WPFciBeE/640x427.jpg",
+                  "width": 640,
+                  "height": 427
+                }
+              ]
+            }
+          },
+          {
+            "image": {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360,
+              "thumbnails": [
+                {
+                  "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+                  "width": 5040,
+                  "height": 3360
+                }
+              ]
+            }
+          }
+        ],
+        "geocodedCoordinate": {
+          "latitude": 53.073058,
+          "longitude": 8.822822
+        },
+        "googleCoverPhoto": {
+          "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+          "width": 5040,
+          "height": 3360,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/5040x3360.jpg",
+              "width": 5040,
+              "height": 3360
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-weW50VUOiVo8GScpodUi9wRfPlbQfXKgl8BHeudYiA/1788x1192.jpg",
+              "width": 1788,
+              "height": 1192
+            }
+          ]
+        },
+        "googleProfilePhoto": {
+          "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+          "width": 350,
+          "height": 350,
+          "sourceUrl": "https://api.mark.ee/imgs/27de63057704f534f430c46d27d9b5950eb426f710fd36678a730b267bf18203.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/RCSqJ79XW6sFZn4ZDUZff1-yjYBmH-7lkBFg3WNjofc/350x350.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "isoRegionCode": "HB",
+        "keywords": [
+          "fit",
+          "Sportprogramm"
+        ],
+        "languages": [
+          "Englisch",
+          "Deutsch",
+          "Französisch"
+        ],
+        "mainPhone": "+49309815789",
+        "paymentOptions": [
+          "AMERICANEXPRESS",
+          "ANDROIDPAY",
+          "APPLEPAY",
+          "Bar",
+          "CASH",
+          "CONTACTLESSPAYME",
+          "ECKARTE",
+          "FINANCING",
+          "INVOICE",
+          "MAESTRO",
+          "MASTERCARD",
+          "Manuelle Lastsch",
+          "PAYBACKPAY",
+          "VISA",
+          "Überweisung"
+        ],
+        "products": [
+          "Rückentraining",
+          "Fitness",
+          "Personal Coach"
+        ],
+        "services": [
+          "Personal Training",
+          "Gruppentraining ab 5 Personen",
+          "Fitness"
+        ],
+        "specialities": [
+          "Workout Zirkeltraining",
+          "Personaltraining"
+        ],
+        "timezone": "Europe/Berlin",
+        "websiteUrl": {
+          "url": "https://www.georgs-gym.de",
+          "displayUrl": "https://www.georgs-gym.de",
+          "preferDisplayUrl": false
+        },
+        "yearEstablished": 1997,
+        "yextDisplayCoordinate": {
+          "latitude": 53.073058,
+          "longitude": 8.822822
+        },
+        "videos": [
+          {
+            "video": {
+              "url": "http://www.youtube.com/watch?v=S-GLO_PydqU"
+            }
+          }
+        ],
+        "meta": {
+          "accountId": "LH46574",
+          "uid": "1868466",
+          "id": "1657159",
+          "timestamp": "2026-01-20T15:07:14",
+          "createdTimestamp": "2014-10-24T17:40:59",
+          "folderId": "75509",
+          "schemaTypes": [
+            "ExerciseGym"
+          ],
+          "language": "de",
+          "countryCode": "DE",
+          "entityType": "location"
+        },
+        "categoryIds": [
+          "1259"
+        ],
+        "reviewGenerationUrl": "https://www.leavefeedback.app/tp/xO8l3",
+        "firstPartyReviewPage": "",
+        "timeZoneUtcOffset": "+01:00"
+      }
+    ],
+    "count": 117,
+    "pageToken": "I-7SRJZDZVxj9sc4Pc6lQBL6MSskJcUgxfoRnwcpSy4o2EJre914F3zWmsB4xg0rUk7dVvcrtfANX63MF45FOoRQN8xj4xZSta7OfhfBj8TWaFlXT_0bDBwKXKodBEVLGoD42HBc2Hg62DCh0s5K7w=="
+  }
+}

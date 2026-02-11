@@ -93,6 +93,7 @@ class AdminController extends BaseController {
         $sanitized['show_logo_detail'] = isset($input['show_logo_detail']) ? 1 : 0;
         $sanitized['show_location_name_detail'] = isset($input['show_location_name_detail']) ? 1 : 0;
         $sanitized['activate_autocomplete'] = isset($input['activate_autocomplete']) ? 1 : 0;
+        $sanitized['use_mockdata'] = isset($input['use_mockdata']) ? 1 : 0;
 
         // Country codes field is disabled in UI; ignore incoming value for safety, set default
         $sanitized['country_codes'] = 'de';
@@ -139,7 +140,7 @@ class AdminController extends BaseController {
         $options = get_option('alf_settings', []);
         $pages = get_pages();
         
-        echo $this->render('admin-settings', [
+        echo $this->render('admin/admin-settings', [
             'options' => $options,
             'pages' => $pages
         ]);

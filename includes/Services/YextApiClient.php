@@ -1,7 +1,7 @@
 <?php
 namespace AdvantagoLocationFinder\Services;
 
-class YextApiClient
+class YextApiClientService
 {
     private $apiKey;
     private $baseUrl = 'https://cdn.yextapis.com/v2';
